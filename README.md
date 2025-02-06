@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" height = "300" ></img></p>
+<p align="center"><img src="public/img/logos/logo-3.png" height = "250" ></img></p>
 
 An web application to help everyone do workout wherever and whenever. Supported by the pose detector feature to analyze every pose and auto count the number of repetitions made.
 

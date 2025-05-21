@@ -1,0 +1,68 @@
+{
+    "poseDetectorConfig": {
+      "model": "MoveNet",
+      "detectorConfig": {},
+      "estimationConfig": {}
+    },
+    "classifierConfig": {
+      "path": "./tfjs-model/jumping-jack/model.json",
+      "label": ["Other", "Jumping Jack"]
+    },
+    "rulesCountConfig": {
+      "nameWorkout": "Jumping Jacks",
+      "nameStage": ["Up", "Down"],
+      "pathImageStage": [
+        "./img/iconmonstr-caret-up-circle-filled-64.png",
+        "./img/iconmonstr-caret-down-circle-filled-64.png"
+      ],
+      "pathAudioStage": [
+        "./audio/go-up-from-google-translate.webm",
+        "./audio/go-down-from-google-translate.webm"
+      ],
+      "anglePoint": {
+        "11": {
+          "spouseIdx": [5, 15],
+          "rangeAngle": [
+            { "min": 150, "max": 180 },  
+            { "min": 30, "max": 90 }     
+          ]
+        },
+        "12": {
+          "spouseIdx": [6, 16],
+          "rangeAngle": [
+            { "min": 150, "max": 180 },
+            { "min": 30, "max": 90 }
+          ]
+        },
+        "13": {
+          "spouseIdx": [11, 15],
+          "rangeAngle": [
+            { "min": 160, "max": 180 },  
+            { "min": 30, "max": 90 }     
+          ]
+        },
+        "14": {
+          "spouseIdx": [12, 16],
+          "rangeAngle": [
+            { "min": 160, "max": 180 },
+            { "min": 30, "max": 90 }
+          ]
+        },
+        "23": {
+          "spouseIdx": [25, 11],
+          "rangeAngle": [
+            { "min": 110, "max": 170 },
+            { "min": 170, "max": 180 }
+          ]
+        },
+        "24": {
+          "spouseIdx": [26, 12],
+          "rangeAngle": [
+            { "min": 110, "max": 170 },
+            { "min": 170, "max": 180 }
+          ]
+        }
+      }
+    }
+  }
+  

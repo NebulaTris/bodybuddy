@@ -1,6 +1,6 @@
 {
-  "nameWorkout": ["Push Up", "Squat"],
-  "slugWorkout": ["push-up", "squat"],
+  "nameWorkout": ["Push Up", "Squat" , "Assisted-Squats", "Side Lunges" ,"Lunges", "Knee Push Up", "Sumo Squats",  "Cobra Pose","Plank", "Sit Ups", "Bicep Curls" , "Cobra Wings", "Front Raises", "Glute Bridge", "Hip Abduction Standing", "Lateral Raises" , "Leg Raises", "Overhead Dumbbell Press", "V-Ups"],
+  "slugWorkout": ["push-up", "squat" , "assisted-squats","side-lunges","lunges", "knee-push-up","sumo-squats",  "cobra-pose", "plank", "sit-ups","bicep-curls" , "cobra-wings", "front-raises", "glute-bridge", "hip-abduction-standing", "lateral-raises" , "leg-raises", "overhead-dumbbell-press", "v-ups"],
   "duration": ["1 Minutes", "3 Minutes", "5 Minutes", "7 Minutes"],
   "settingsConfig": {
     "currWorkout": "None",

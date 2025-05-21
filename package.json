@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reevald/ai-workout-assistant.git"
+    "url": "git+https://github.com/NebulaTris/bodybuddy.git"
   },
-  "author": "Moch. Galang Rivaldo",
+  "author": "Mishra Shambhavi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reevald/ai-workout-assistant/issues"
+    "url": "https://github.com/NebulaTris/bodybuddy/issues"
   },
-  "homepage": "https://github.com/reevald/ai-workout-assistant#readme",
+  "homepage": "https://github.com/NebulaTris/bodybuddy#readme",
   "devDependencies": {
     "eslint": "^8.32.0",
     "eslint-config-airbnb-base": "^15.0.0",

@@ -1,4 +1,8 @@
-<p align="center"><img src="public/img/logos/logo-3.png" height = "250" ></img></p>
+<p align="center"><h1 align="center">BodyBuddy</h1>
+
+
+https://github.com/user-attachments/assets/041d5dec-93fb-4b95-830d-c1bea84de745
+</p>
 
 An web application to help everyone do workout wherever and whenever. Supported by the pose detector feature to analyze every pose and auto count the number of repetitions made.
 
